@@ -1,0 +1,11 @@
+.header-nav {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    
+}
+
+h1{
+    font-family: 'Grenze Gotisch', cursive;
+    color: black;
+}
